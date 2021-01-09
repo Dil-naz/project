@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 my third test
+=======
+my project
+>>>>>>> my-project
